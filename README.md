@@ -1,2 +1,3 @@
 # AI_Diet_Plan_Chatbot
 A personalized chatbot for personalized diet plan
+This project is an AI-driven chatbot designed to generate personalized diet plans based on user inputs such as age, weight, health goals, dietary preferences, and medical conditions. Built with Streamlit and powered by OpenRouter's Mistral-7B and GPT APIs, the chatbot provides real-time, intelligent nutritional guidance tailored to individual needs. It offers a user-friendly interface for seamless interaction, making healthy eating more accessible and customized than ever. Ideal for users seeking AI-assisted dietary planning and wellness tracking.
