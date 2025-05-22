@@ -1,6 +1,7 @@
 # AI_Diet_Plan_Chatbot
 
 🥗 Overview
+
 The AI-Based Personalized Diet Plan Chatbot is an intelligent conversational application designed to help users create customized diet plans based on their unique health goals, dietary preferences, and lifestyle habits. Built using modern AI models and deployed via an intuitive web interface, the chatbot serves as a virtual nutrition assistant that provides tailored meal recommendations and dietary tips in real-time.
 
 This project combines AI-powered natural language processing with nutritional data to deliver personalized advice that adapts to each user’s responses. It is ideal for individuals seeking structured meal plans, fitness enthusiasts looking for diet optimization, or developers interested in building health tech applications.
